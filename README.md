@@ -28,11 +28,11 @@ Neste site foi possível treinar conhecimentos fundamentais em REACT + NPM/NPX +
 
 ✔️ NPM/NPX
 
-✔️ REACT JSON SERVER => [SASS](https://github.com/typicode/json-server)
+✔️ REACT JSON SERVER => [JSON SERVER](https://github.com/typicode/json-server)
 
-✔️ REACT AXIOS => [SWIPER](https://github.com/axios/axios)
+✔️ REACT AXIOS => [AXIOS](https://github.com/axios/axios)
 
-✔️ REACT ROUTER => [AOS](https://github.com/remix-run/react-router)
+✔️ REACT ROUTER => [ROUTER](https://github.com/remix-run/react-router)
 
 ## ✒️ Autores
 
