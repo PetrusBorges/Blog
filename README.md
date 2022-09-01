@@ -18,7 +18,11 @@ Neste site foi possível treinar conhecimentos fundamentais em REACT + NPM/NPX +
 
 > npm i
 
-2- Para iniciar a aplicação:
+2- Para excutar a API:
+
+> json-server --watch db.json --port 4000
+
+3- Para iniciar a aplicação:
 
 > npm start
 
